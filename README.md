@@ -87,5 +87,5 @@ The analysis is based on the [crime_dataset_india.csv](crime_dataset_india.csv) 
 
 ## 👨‍💻 Developed by
 
-**Rohan Nad**  
+**Rohan**  
 [GitHub Profile](https://github.com/rohanhake98)
